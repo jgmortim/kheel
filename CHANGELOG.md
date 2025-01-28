@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial designs for `normal select`, `busy`, and `working in background`.
 - README
+- license.txt
 - This CHANGELOG
 
 [0.0.1]: https://github.com/jgmortim/kheel/releases/tag/v0.0.1
