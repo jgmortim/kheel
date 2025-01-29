@@ -50,11 +50,11 @@ dominance, any other shape or angle would feel alien to most computer users.
 After many iterations, I ended up with a design that blends features and concepts of the various mice employed by 
 Microsoft and Apple over the years. My design has a shorter tail which is in line with every version of Mac since the
 Apple System 1.0 and every version of Windows since Windows Vista. Its larger head size is comparable with Windows
-Vista and later. It features antialiasing like what was introduced with Windows Vista and MacOS 10.4 Tiger. And it 
+Vista and later. It features antialiasing like what was introduced with Windows Vista and macOS 10.4 Tiger. And it 
 lacks shadows while using a minimal gradient as seen in Windows 8 and later.
 
 However, unlike Microsoft and Apple, my design features a tail that extends at the same angle as the pointer (22.5°) 
-instead of that irregular nonsense they went with. And unlike Windows, my design has a boarded thickness that scales
+instead of that irregular nonsense they went with. And unlike Windows, my design has a boarder thickness that scales
 with the cursor instead of remaining at 1 px.
 
 ### Loading
@@ -91,7 +91,7 @@ Designs for the other roles are in the works but are not yet ready for review.
 
 1. The following software was used in the creation of this project:
    1. [RealWorld Cursor Editor](http://www.rw-designer.com/cursor-maker) versions 2013.1 and 2023.1 which are licensed
-  under the [RealWorld Cursor Editor license](http://www.rw-designer.com/cursor-license) and is free for both personal
+  under the [RealWorld Cursor Editor license](http://www.rw-designer.com/cursor-license) and are free for both personal
   and commercial use.
    2. [RealWorld Paint](http://www.rw-designer.com/image-editor) version 2013.1 which is licensed under the
     [RealWorld Paint license](http://www.rw-designer.com/paint-donate) and is free for both personal and commercial use.
