@@ -58,6 +58,7 @@ instead of that irregular nonsense they went with. And unlike Windows, my design
 with the cursor instead of remaining at 1 px.
 
 ### Loading
+
 ![working 32px](resources/preview/working32.png)
 ![working 48px](resources/preview/working48.png)
 ![working 64px](resources/preview/working64.png)
@@ -82,6 +83,15 @@ when using a fast computer, you want to feel like your PC is doing things fast, 
 And even though there is no connection between your cursor's frequency and your CPU, a fast spinner feels less painful 
 to watch than a slow one. So I tried faster speeds and eventually settled on 1.25 Hz as anything faster started to feel
 obnoxious.
+
+### Precision Select
+
+I have opted to stick with the cross-hair design used by Windows; however, Windows has decided to scale the thickness
+of the cursor when used in high DPI settings. The beams are 8 px thick in their 128x128 version. If you want 
+pixel-perfect precision, why would you make the cursor more than 1 px wide? And further, why an even number of pixels?
+The hot spot can't be placed in the actual center if you make it an even number. In my version, I've remedied these
+issues by keeping the beams 1 px wide no mater what size the cursor is. They grow in length in the larger resolutions, 
+but not in width.
 
 ### Other
 
